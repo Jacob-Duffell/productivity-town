@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e84f46d727d98a34883b15d75d71a0e5, type: 3}
+  m_Name: House Blue
+  m_EditorClassIdentifier: 
+  buildingID: 1
+  buildingName: House (Blue)
+  buildingIcon: {fileID: 21300000, guid: b8b893faf55daaf4987992b6a8b70e64, type: 3}
+  buildingPrefab: {fileID: 7886751139252757350, guid: 81954774992b3f142ab25a84a8402300, type: 3}
+  previewPrefab: {fileID: 2377703785448048384, guid: 1ee29cca095050c4bbbdab7725c10193, type: 3}
+  purchasePrice: 100
+  revenue: 40

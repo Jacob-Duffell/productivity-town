@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e84f46d727d98a34883b15d75d71a0e5, type: 3}
+  m_Name: Pawn Shop Corner
+  m_EditorClassIdentifier: 
+  buildingID: 8
+  buildingName: Pawn Shop (Corner)
+  buildingIcon: {fileID: 21300000, guid: b4cbb06148c6b0440bad40014c6f9641, type: 3}
+  buildingPrefab: {fileID: 8686380407392179828, guid: c198d57f9c18fa84fbc6a586781ae6b4, type: 3}
+  previewPrefab: {fileID: 8686380407392179828, guid: b697c9153a1e29b4ebbb012ab3fab967, type: 3}
+  purchasePrice: 1000
+  revenue: 120

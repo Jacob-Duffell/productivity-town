@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e84f46d727d98a34883b15d75d71a0e5, type: 3}
+  m_Name: Video Rental Shop Corner
+  m_EditorClassIdentifier: 
+  buildingID: 12
+  buildingName: Video Rental Shop (Corner)
+  buildingIcon: {fileID: 21300000, guid: 4511e2e54ea3dd647aff95b1c19dfcd6, type: 3}
+  buildingPrefab: {fileID: 8686380407392179828, guid: 79252c9a87b3e8841b1bd5edf9411953, type: 3}
+  previewPrefab: {fileID: 8686380407392179828, guid: 7c347da6937417d47ac1c2919ed82a60, type: 3}
+  purchasePrice: 1700
+  revenue: 160

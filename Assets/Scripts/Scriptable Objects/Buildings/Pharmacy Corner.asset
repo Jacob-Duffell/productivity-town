@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e84f46d727d98a34883b15d75d71a0e5, type: 3}
+  m_Name: Pharmacy Corner
+  m_EditorClassIdentifier: 
+  buildingID: 10
+  buildingName: Pharmacy (Corner)
+  buildingIcon: {fileID: 21300000, guid: 8e4ef78df1e5175449ed1995778ff23f, type: 3}
+  buildingPrefab: {fileID: 8686380407392179828, guid: 7a7534412f082624691b99e46f1ab59c, type: 3}
+  previewPrefab: {fileID: 8686380407392179828, guid: 47e84b04663009d43939696d6fd95019, type: 3}
+  purchasePrice: 1450
+  revenue: 140

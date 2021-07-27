@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e84f46d727d98a34883b15d75d71a0e5, type: 3}
+  m_Name: Cinema
+  m_EditorClassIdentifier: 
+  buildingID: 14
+  buildingName: Cinema
+  buildingIcon: {fileID: 21300000, guid: 680c000ca373c5a429a38ae7eaeca6a4, type: 3}
+  buildingPrefab: {fileID: 4449367987274104739, guid: 30770cf5e61ec9e4da3c018a1880c0ba, type: 3}
+  previewPrefab: {fileID: 4449367987274104739, guid: 334d0ba201016ea43995ba248403b699, type: 3}
+  purchasePrice: 4000
+  revenue: 200
